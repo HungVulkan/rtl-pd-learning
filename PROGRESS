@@ -1,0 +1,42 @@
+
+# Learning Progress
+
+## Current Focus
+
+- Topic: Verilog fundamentals
+- Current project: Timer / Counter IP
+- Last updated: YYYY-MM-DD
+
+## Learning Checklist
+
+### Verilog
+- [ ] Combinational logic
+- [ ] Sequential logic
+- [ ] Blocking vs non-blocking assignments
+- [ ] FSM
+- [ ] Parameterized modules
+- [ ] Testbench
+
+### Synthesis and Timing
+- [ ] Read synthesis statistics
+- [ ] Understand mapped netlists
+- [ ] Learn setup and hold timing
+- [ ] Write basic SDC constraints
+- [ ] Read a timing report
+
+### Physical Design
+- [ ] Floorplanning
+- [ ] Placement
+- [ ] Clock Tree Synthesis
+- [ ] Routing
+- [ ] Analyze area and timing
+
+## Learning Log
+
+### YYYY-MM-DD
+- Studied:
+- Practiced:
+- Problems encountered:
+- What I learned:
+- Next steps:
+- Evidence: [link to commit or project]
