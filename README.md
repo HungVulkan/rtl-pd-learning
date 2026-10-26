@@ -45,6 +45,7 @@ digital design on the Tang Primer 20K FPGA.
 - Yosys
 - OpenROAD
 - Git and GitHub
+<img width="480" height="363" alt="image" src="https://github.com/user-attachments/assets/67345286-ddba-4d93-867b-9993aa46a436" />
 
 ## Repository Structure
 
